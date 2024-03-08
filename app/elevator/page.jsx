@@ -66,8 +66,6 @@ function requestElevator(elevatorSystem, floor) {
     };
   }
   
-  
-
 
 function updateElevatorSystem(elevatorSystem) {
   const updatedElevators = elevatorSystem.elevators.map((elevator) => {
